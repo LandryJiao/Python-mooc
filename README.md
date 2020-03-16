@@ -5,9 +5,9 @@
 ## 原理
 利用Chrome+Selenium WebDrive
 ## 安装爬取环境
-安装Chrome
-安装Selenium
-安装Chrome driver
+安装Chrome<br>
+安装Selenium<br>
+安装Chrome driver<br>
 ## 爬取步骤
 依次根据课程种类，如：法学、工学、计算机、教育教学、经济管理等，依次爬取每类课程下的课程信息
 ## 爬取文件目录结构
@@ -26,4 +26,4 @@ mooc<br>
 │   │   mooc.csv(课程信息)<br>
 │   │   mooc_3D打印技术及应用_NWPU-1001911003_evaluate(评论信息)<br>
 │   │   ...<br>
-│   ├...<br>
+│   ├...
