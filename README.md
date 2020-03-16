@@ -24,6 +24,6 @@ mooc<br>
 │   ├工学<br>
 │   │   │<br>
 │   │   mooc.csv(课程信息)<br>
-│   │   mooc_3D打印技术及应用_NWPU-1001911003_evaluate(评论信息)<br>
+│   │   mooc_3D打印技术及应用_NWPU-1001911003_evaluate.csv(评论信息)<br>
 │   │   ...<br>
 │   ├...
