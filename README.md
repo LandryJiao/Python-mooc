@@ -3,7 +3,7 @@
 课程信息包括：类别	课程名	课程ID	开课次数	参加人数	老师	课程概述	爬取时间<br>
 课程评论信息包括：课程名	课程ID	评分	评论总数	用户名	用户主页	用户评分	用户评论	评论时间	点赞数
 ## 原理
-利用Chrome+Selenium WebDrive
+利用Python3+Chrome+Selenium WebDrive
 ## 安装爬取环境
 安装Chrome<br>
 安装Selenium<br>
